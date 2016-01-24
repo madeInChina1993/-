@@ -1,0 +1,18 @@
+//
+//  UrlString.pch
+//  UIWork15_1
+//
+//  Created by lanou3g on 16/1/13.
+//  Copyright © 2016年 lanou3g. All rights reserved.
+//
+
+#ifndef UrlString_pch
+#define UrlString_pch
+
+#define kActivity @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/activitylist.php"
+
+#define kMovie @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/movielist.php"
+
+#define kMovieDetail @"http://project.lanou3g.com/teacher/yihuiyun/lanouproject/searchmovie.php?movieId="
+
+#endif /* UrlString_pch */
